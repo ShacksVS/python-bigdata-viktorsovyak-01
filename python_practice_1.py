@@ -1,0 +1,1 @@
+print("Viktor Sovyak, group: 01")
